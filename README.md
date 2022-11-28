@@ -1,5 +1,5 @@
 - Hi, I’m @sreedevprasan
-- I’m interested in data analytics and machine learning.
+- I’m interested in data science and machine learning.
 - I’m currently learning Machine Learning algorithms, AI & Deep Learning.
 - I’m looking to collaborate on projects related to data analytics and machine learning. Collecting, sorting, filtering and grouping data for meaningful insights and for the purpose of decision making.
 - Feel free to reach me out on my e-mail: sreedev.prasan@gmail.com
